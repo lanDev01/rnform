@@ -26,4 +26,9 @@ export const styles = StyleSheet.create({
     borderRightWidth: 3,
     borderRightColor: "#F4F5F6",
   },
+  error: {
+    fontSize: 14,
+    marginTop: 7,
+    color: "#DC1637",
+  },
 });
