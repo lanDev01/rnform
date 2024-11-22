@@ -6,9 +6,11 @@ export const styles = StyleSheet.create({
     backgroundColor: "#F4F5F6",
     justifyContent: "center",
     padding: 24,
+    gap: 16,
   },
   title: {
     fontSize: 24,
     fontWeight: "700",
+    marginBottom: 44,
   },
 });
